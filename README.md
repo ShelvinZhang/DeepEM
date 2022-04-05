@@ -1,6 +1,6 @@
 # DeepEM
 Deep-learning based particle picking program for single particle cryo-EM.  
-This version is based on VGG (Very Deep Convolutional Networks), contributed by Yinping Ma.
+This version is based on VGG (Very Deep Convolutional Networks) and originally contributed by Yinping Ma.
 
 Requirements:  
 Python 3  
