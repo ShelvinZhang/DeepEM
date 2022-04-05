@@ -1,5 +1,5 @@
 # DeepEM
-Deep-learning based particle picking program for single particle cryo-EM  
+Deep-learning based particle picking program for single particle cryo-EM.  
 This version is based on VGG (Very Deep Convolutional Networks).
 
 Requirements:
