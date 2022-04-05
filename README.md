@@ -2,7 +2,7 @@
 Deep-learning based particle picking program for single particle cryo-EM.  
 This version is based on VGG (Very Deep Convolutional Networks).
 
-Requirements:
+Requirements:  
 Python 3  
 Tensorflow 1.9  
 Mrcfile https://mrcfile.readthedocs.io/en/latest/index.html  
