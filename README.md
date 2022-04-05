@@ -1,18 +1,15 @@
 # DeepEM
-Deep-learning based particle picking program for single particle cryo-EM
+Deep-learning based particle picking program for single particle cryo-EM  
 This version is based on VGG (Very Deep Convolutional Networks).
 
-
 Requirements:
-Python 3
-Tensorflow 1.9
-Mrcfile https://mrcfile.readthedocs.io/en/latest/index.html
+Python 3  
+Tensorflow 1.9  
+Mrcfile https://mrcfile.readthedocs.io/en/latest/index.html  
 Other python packages mentioned in the code
 
-
-Original version:
+Original version:  
 http://ipccsb.dfci.harvard.edu/deepem/index.html
 
-
-Reference:
+Reference:  
 Y. Zhu, Q. Ouyang, Y. Mao. A deep convolutional neural network approach to single-particle recognition in cryo-electron microscopy. BMC Bioinformatics 18, 348 (2017). Learn More. arXiv: 1605.05543.
