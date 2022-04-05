@@ -8,8 +8,8 @@ Tensorflow 1.9
 Mrcfile https://mrcfile.readthedocs.io/en/latest/index.html  
 Other python packages mentioned in the code
 
-Basic Usage:
-Edit arg.py to change parameters  
+Basic Usage:  
+Edit args_vgg19.py to change parameters  
 Training: python train.py  
 Picking: python predict.py  
 
